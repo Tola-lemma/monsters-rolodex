@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tola-lemma/monsters-rolodex/static/css/main.9d1e4b37.css",
+    "main.js": "/Tola-lemma/monsters-rolodex/static/js/main.069b35d0.js",
+    "static/js/787.84589c7b.chunk.js": "/Tola-lemma/monsters-rolodex/static/js/787.84589c7b.chunk.js",
+    "index.html": "/Tola-lemma/monsters-rolodex/index.html",
+    "main.9d1e4b37.css.map": "/Tola-lemma/monsters-rolodex/static/css/main.9d1e4b37.css.map",
+    "main.069b35d0.js.map": "/Tola-lemma/monsters-rolodex/static/js/main.069b35d0.js.map",
+    "787.84589c7b.chunk.js.map": "/Tola-lemma/monsters-rolodex/static/js/787.84589c7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d1e4b37.css",
+    "static/js/main.069b35d0.js"
+  ]
+}
