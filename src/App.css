@@ -1,17 +1,14 @@
 h3{
-
   margin: 0%;
   margin-left: 3px;
 }
 .row{
-  
   display: flex;
   flex-direction: row;
   padding: 1px;
   padding-left: 100px;
 }
 .card-style{
- 
   display: flex;
   flex-direction: column;
   border-radius: 5px;
